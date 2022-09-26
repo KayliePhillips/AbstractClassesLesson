@@ -1,0 +1,15 @@
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\bin\Debug\net6.0\AbstractClassesLesson.exe
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\bin\Debug\net6.0\AbstractClassesLesson.deps.json
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\bin\Debug\net6.0\AbstractClassesLesson.runtimeconfig.json
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\bin\Debug\net6.0\AbstractClassesLesson.dll
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\bin\Debug\net6.0\AbstractClassesLesson.pdb
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.csproj.AssemblyReference.cache
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.AssemblyInfoInputs.cache
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.AssemblyInfo.cs
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.csproj.CoreCompileInputs.cache
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.dll
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\refint\AbstractClassesLesson.dll
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.pdb
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\AbstractClassesLesson.genruntimeconfig.cache
+C:\Users\kayly\Desktop\Repos\AbstractClassesLesson\AbstractClassesLesson\obj\Debug\net6.0\ref\AbstractClassesLesson.dll
